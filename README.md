@@ -16,10 +16,8 @@ Download the latest APK from the [Releases Page](https://github.com/quickhudtv/Q
 
 
 
-
-
-
-
-
-### Поиск / Keywords
+<!-- 
+Keywords for search engines:
 Таймер сна для Android TV, быстрый запуск приложений на телевизоре, переназначение кнопок пульта приставки, оверлей меню для андроид тв, скачать полезный софт для Android TV APK.
+Smart overlay menu, sleep timer Android TV, button remapper atv, quick launch slots tv box apk.
+-->
